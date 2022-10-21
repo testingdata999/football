@@ -1,0 +1,7 @@
+# CSV header constants
+HEADER_TITLE_CLUB = "Club"
+HEADER_TITLE_GAMES_WON = "Games Won"
+HEADER_TITLE_GAMES_DRAWN = "Games Drawn"
+HEADER_TITLE_GAMES_LOST = "Games Lost"
+HEADER_TITLE_GOALS_SCORED = "Goals Scored"
+HEADER_TITLE_GOALS_CONCEDED = "Goals Conceded"
